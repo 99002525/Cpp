@@ -17,4 +17,5 @@ int main()
     a2.display();
     a3.display();
     a4.display();
+    return 0;
 }
