@@ -15,4 +15,5 @@ int main()
     cout << "Volume =" << B1.volume() << endl;
 
     B4.dispay();
+    return 0;
 }
