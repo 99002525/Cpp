@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623326688 source:g:\code blocks\tech\project\coustomer\main.cpp
+	<iostream>
+	"customer.h"
+
+1623325895 g:\code blocks\tech\project\coustomer\customer.h
+
