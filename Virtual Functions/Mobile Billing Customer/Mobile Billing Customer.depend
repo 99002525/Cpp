@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624617134 source:g:\code blocks\tech\project\mobile billing customer\main.cpp
+	<iostream>
+	"customer.h"
+
+1624617301 g:\code blocks\tech\project\mobile billing customer\customer.h
+

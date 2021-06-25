@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624560882 source:g:\code blocks\tech\project\banking\main.cpp
+	<iostream>
+	"banking.h"
+
+1624561105 g:\code blocks\tech\project\banking\banking.h
+	<iostream>
+
+1624560591 source:g:\code blocks\tech\project\banking\banking.cpp
+	"banking.h"
+	<iostream>
+

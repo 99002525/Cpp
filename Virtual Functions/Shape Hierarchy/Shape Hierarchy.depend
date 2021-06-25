@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1624626447 source:g:\code blocks\tech\project\shape hierarchy\shape.cpp
+	"shape.h"
+
+1624626413 g:\code blocks\tech\project\shape hierarchy\shape.h
+	<math.h>
+
