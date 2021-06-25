@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623319170 source:g:\code blocks\tech\project\box\box.cpp
+	"box.h"
+	<iostream>
+
+1623317723 g:\code blocks\tech\project\box\box.h
+
