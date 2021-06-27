@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1624644142 source:g:\code blocks\tech\project\generic stack\main.cpp
+	<iostream>
+	"genstack.h"
+
+1624643279 g:\code blocks\tech\project\generic stack\stack.h
+
+1624643749 source:g:\code blocks\tech\project\generic stack\stack.cpp
+	"stack.h"
+	<iostream>
+
+1624818876 g:\code blocks\tech\project\generic stack\genstack.h
+	<iostream>
+

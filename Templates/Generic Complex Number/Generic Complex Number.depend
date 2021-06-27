@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1624818128 source:g:\code blocks\tech\project\generic complex number\complex.cpp
+	"complex.h"
+	<iostream>
+
+1624818291 g:\code blocks\tech\project\generic complex number\complex.h
+	<iostream>
+
+1624818146 source:g:\code blocks\tech\project\generic complex number\main.cpp
+	<iostream>
+	"complex.h"
+

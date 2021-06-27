@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1624816622 source:g:\code blocks\tech\project\generic point class\main.cpp
+	<iostream>
+	"point.h"
+
+1624818791 g:\code blocks\tech\project\generic point class\point.h
+	<iostream>
+	<cmath>
+
+1624818697 source:g:\code blocks\tech\project\generic point class\point.cpp
+
