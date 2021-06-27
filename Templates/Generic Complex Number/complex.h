@@ -15,6 +15,6 @@ template<class T> Complex<T>:: Complex(T real,T image) : m_real{real}, m_image{i
 
 template<class T> void Complex<T>::display()
 {
-    std::cout << m_real << "i"<<m_image<<std::endl;
+    std::cout << m_real << "\ti"<<m_image<<std::endl;
 }
 #endif // COMPLEX_H_INCLUDED
